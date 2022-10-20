@@ -5,11 +5,9 @@ Monogramming workshop 2022-10
      ./examples
      ├──  README.md
      ├──  myFirstSketch/
-     │   └──  README.md
      └──  myNextSketch/
-         └──  README.md
      
-     2 directories, 3 files (Thu Oct 20 16:09:51 JST 2022)
+     2 directories, 1 file (Thu Oct 20 16:08:35 JST 2022)
 
 Note: URL = https://github.com/hohno-46466/eZone--mgws--2210
 
