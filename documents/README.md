@@ -1,8 +1,8 @@
-# eZone--mgws--2210
+# eZone--mgws--2210/documents
 
 Monogramming workshop 2022-10
 
-    ./eZone--mgws--2210
+    ./documents
      └──  README.md
      
      0 directories, 1 file (Sat Oct  1 00:03:26 JST 2022)

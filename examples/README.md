@@ -1,4 +1,4 @@
-# eZone--mgws--2210
+# eZone--mgws--2210/examples
 
 Monogramming workshop 2022-10
 
