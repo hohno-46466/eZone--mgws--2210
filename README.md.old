@@ -20,10 +20,14 @@ Monogramming workshop 2022-10
      │       └──  ourNextSketch.ino
      ├──  misc/
      │   └──  README.md
-     └──  scripts/
-         └──  README.md
+     ├──  scripts/
+     │   └──  README.md
+     └──  tools/
+         ├──  README.md
+         ├──  addpath.sh
+         └──  addts.sh
      
-     7 directories, 12 files (Thu Nov  3 08:54:19 JST 2022)
+     8 directories, 15 files (Thu Nov  3 12:43:33 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/eZone--mgws--2210

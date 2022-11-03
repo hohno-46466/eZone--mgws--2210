@@ -3,9 +3,12 @@
 Monogramming workshop 2022-10
 
     ./documents
-     └──  README.md
+     ├──  Grove-Beginner-Kit-For-ArduinoPDF.pdf
+     ├──  README.md
+     ├──  SU1203_センサー活用入門.pdf
+     └──  SU1204_モータリレーブザー制御入門.pdf
      
-     0 directories, 1 file (Sat Oct  1 00:03:26 JST 2022)
+     0 directories, 4 files (Thu Nov  3 12:56:50 JST 2022)
 
 Note: URL = https://github.com/hohno-46466/eZone--mgws--2210
 
