@@ -2,6 +2,8 @@
 
 Monogramming workshop 2022-10
 
+See also: https://bit.ly/3y0Stb4
+
     ./eZone--mgws--2210
      ├──  README.md
      ├──  README.md.old
@@ -30,7 +32,7 @@ Monogramming workshop 2022-10
          ├──  addpath.sh
          └──  addts.sh
      
-     8 directories, 18 files (Thu Nov  3 12:57:13 JST 2022)
+     8 directories, 18 files (Thu Nov  3 13:00:10 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/eZone--mgws--2210

@@ -2,11 +2,16 @@
 
 Monogramming workshop 2022-10
 
+See also: https://bit.ly/3y0Stb4
+
     ./eZone--mgws--2210
      ├──  README.md
      ├──  README.md.old
      ├──  documents/
-     │   └──  README.md
+     │   ├──  Grove-Beginner-Kit-For-ArduinoPDF.pdf
+     │   ├──  README.md
+     │   ├──  SU1203_センサー活用入門.pdf
+     │   └──  SU1204_モータリレーブザー制御入門.pdf
      ├──  examples/
      │   ├──  README.md
      │   ├──  our3rdSketch/
@@ -27,7 +32,7 @@ Monogramming workshop 2022-10
          ├──  addpath.sh
          └──  addts.sh
      
-     8 directories, 15 files (Thu Nov  3 12:43:33 JST 2022)
+     8 directories, 18 files (Thu Nov  3 12:57:13 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/eZone--mgws--2210
