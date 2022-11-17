@@ -1,4 +1,4 @@
-# eZone--mgws--2210/examples/ourNextSketch/ourNextSketch
+# eZone--mgws--2210/examples/ourNextSketch
 
 Monogramming workshop 2022-10
 
