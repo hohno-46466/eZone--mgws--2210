@@ -1,20 +1,12 @@
-# eZone--mgws--2210/examples/ourNextSketch
+# eZone--mgws--2210/examples/ourNextSketch/ourNextSketch
 
 Monogramming workshop 2022-10
 
-    ./examples
+    ./ourNextSketch
      ├──  README.md
-     ├──  our3rdSketch/
-     │   ├──  README.md
-     │   └──  our3rdSketch.ino
-     ├──  ourFirstSketch/
-     │   ├──  README.md
-     │   └──  ourFirstSketch.ino
-     └──  ourNextSketch/
-         ├──  README.md
-         └──  ourNextSketch.ino
+     └──  ourNextSketch.ino
      
-     3 directories, 7 files (Thu Nov  3 08:54:38 JST 2022)
+     0 directories, 2 files (Thu Nov 17 16:40:08 JST 2022)
 
 Note: URL = https://github.com/hohno-46466/eZone--mgws--2210
 
