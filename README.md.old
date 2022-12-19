@@ -32,7 +32,7 @@ See also: https://bit.ly/3y0Stb4
          ├──  addpath.sh
          └──  addts.sh
      
-     8 directories, 18 files (Sun Nov 13 11:09:25 JST 2022)
+     8 directories, 18 files (Sat Nov 19 06:26:44 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/eZone--mgws--2210

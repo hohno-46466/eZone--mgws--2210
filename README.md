@@ -16,13 +16,17 @@ See also: https://bit.ly/3y0Stb4
      │   ├──  README.md
      │   ├──  our3rdSketch/
      │   │   ├──  README.md
-     │   │   └──  our3rdSketch.ino
+     │   │   ├──  our3rdSketch.ino
+     │   │   └──  our3rdSketch.ino.bak
      │   ├──  ourFirstSketch/
      │   │   ├──  README.md
      │   │   └──  ourFirstSketch.ino
-     │   └──  ourNextSketch/
+     │   ├──  ourNextSketch/
+     │   │   ├──  README.md
+     │   │   └──  ourNextSketch.ino
+     │   └──  ourSerialRead1/
      │       ├──  README.md
-     │       └──  ourNextSketch.ino
+     │       └──  ourSerialRead1.ino
      ├──  misc/
      │   └──  README.md
      ├──  scripts/
@@ -30,9 +34,10 @@ See also: https://bit.ly/3y0Stb4
      └──  tools/
          ├──  README.md
          ├──  addpath.sh
-         └──  addts.sh
+         ├──  addts.sh
+         └──  addts.sh.bak
      
-     8 directories, 18 files (Sat Nov 19 06:26:44 JST 2022)
+     9 directories, 22 files (Mon Dec 19 23:49:20 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/eZone--mgws--2210
