@@ -4,6 +4,9 @@
 
 // Last update: Thu Dec 15 21:06:00 JST 2022
 
+
+// 作成中 //
+
 int val1 = 0, val2 = 0, val3 = 0;
 
 void setup() {
@@ -25,11 +28,11 @@ void loop() {
       if (n >= 3) {
         val3 = tmpV3;
       } 
-      Serial.print("#debug:\t");
-      Serial.print(millis()); Serial.print("\t");
-      Serial.print(val1); Serial.print("\t");
-      Serial.print(val2); Serial.print("\t");
-      Serial.print(val3); Serial.println();
+      // Serial.print("#debug:\t");
+      // Serial.print(millis()); Serial.print("\t");
+      // Serial.print(val1); Serial.print("\t");
+      // Serial.print(val2); Serial.print("\t");
+      // Serial.print(val3); Serial.println();
     }
   }
 }
