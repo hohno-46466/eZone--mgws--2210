@@ -40,7 +40,7 @@ See also: https://bit.ly/3y0Stb4
          ├──  addts.sh
          └──  addts.sh.bak
      
-     10 directories, 24 files (Wed Dec 21 23:58:52 JST 2022)
+     10 directories, 24 files (Mon Dec 26 23:54:22 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/eZone--mgws--2210
