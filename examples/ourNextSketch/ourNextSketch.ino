@@ -14,6 +14,7 @@ void setup() {
 void loop() {
   Serial.print("Hello, World!"); Serial.print("\t");
   Serial.print(millis());      Serial.print("\t");
+  Serial.print(analogRead(A0));      Serial.print("\t");
   Serial.print((digitalRead(buttonPin) == HIGH) ? "ON" : "OFF"); Serial.println();
   delay(200);
 }
